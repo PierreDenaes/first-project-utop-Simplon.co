@@ -1,0 +1,24 @@
+{
+  "name": "sass-est-sensass",
+  "version": "1.0.0",
+  "description": "first-eval-simplon-utoplab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PierreDenaes/first-project-utop-simplon.git"
+  },
+  "author": "Pieutre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PierreDenaes/first-project-utop-simplon/issues"
+  },
+  "homepage": "https://github.com/PierreDenaes/first-project-utop-simplon#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "composer": "^4.1.0",
+    "sass": "^1.23.7"
+  }
+}
