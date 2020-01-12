@@ -23,11 +23,11 @@
 					</div>
 					<div class="blockIconButt ml-4">
 					<a href="https://github.com/PierreDenaes/" class="text-pinky" target="_blank">
-	                <i class="fab fa-3x fa-github"></i></a>
+	                <i class="fab fa-3x fa-github fa-github-mint"></i></a>
 	                </div>
 	                <div class="blockIconButt ml-4">
 	              	<a href="https://www.linkedin.com/in/pierre-dena%C3%ABs-0b4a7a61/" class="text-pinky" target="_blank">
-	              	<i class="fab fa-3x fa-linkedin"></i></a>
+	              	<i class="fab fa-3x fa-linkedin fa-linkedin-mint"></i></a>
 	              	</div>
               	</div>
 			</div>

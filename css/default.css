@@ -271,6 +271,10 @@ h2 {
   background: #3a3b35;
 }
 
+.fa-github-mint:hover, .fa-linkedin-mint:hover {
+  color: #5dfdd0;
+}
+
 /*!
  * Bootstrap v4.3.1 (https://getbootstrap.com/)
  * Copyright 2011-2019 The Bootstrap Authors

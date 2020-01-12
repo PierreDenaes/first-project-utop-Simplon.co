@@ -262,5 +262,8 @@ h2 {
 #network{
 	background: #3a3b35;
 }
+.fa-github-mint:hover, .fa-linkedin-mint:hover {
+	color: map-get($theme-colors, "mint");
+}
 
 @import "../node_modules/bootstrap/scss/bootstrap";
