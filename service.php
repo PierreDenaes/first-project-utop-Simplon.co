@@ -4,7 +4,7 @@
     	<h2 class="wIdo col-lg-12" id="service">Ce que je fais</h2>
     	<div class="row">
     		<div class="col-lg-4">
-    			<span><img src="images/code.png" class="icon1" alt="icon-code"></span>
+    			<span data-scroll><img src="images/code.png" class="icon1" alt="icon-code"></span>
                   <span class="wid">&lt; CODE &gt;</span>
                   <ul class="list-unstyled text-center pl-3 from from-left">
                     <li>Acquis des basiques HTML/CSS, conception de site vitrine et landing page</li>
@@ -15,7 +15,7 @@
                   </ul>
     		</div>
     		<div class="col-lg-4">
-    			<span><img src="images/photo1.png" class="icon1" alt="icon-code"></span>
+    			<span data-scroll><img src="images/photo1.png" class="icon1" alt="icon-code"></span>
                   <span class="wid">PHOTO</span>
                   <ul class="list-unstyled text-center pl-3 from from-down">
                     <li>Création d'identité visuelle Entreprise</li>
@@ -25,7 +25,7 @@
                   </ul>
     		</div>
     		<div class="col-lg-4">
-    			<span><img src="images/coffee_icon.png" class="icon1" alt="icon-code"></span>
+    			<span data-scroll><img src="images/coffee_icon.png" class="icon1" alt="icon-code"></span>
                   <span class="wid">Café</span>
                   <ul class="list-unstyled text-center pl-3 from from-right">
                     <li>Réalise un trés bon café</li>

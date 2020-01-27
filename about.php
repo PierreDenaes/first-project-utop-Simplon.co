@@ -12,12 +12,12 @@
 				<img src="images/cv.png" alt="photo de Pierre Denaes" class="photoCv">
 			</div> 	
 			<div class="col-12 col-sm-12 col-md-12 col-lg-7 section1P">
-				<h1>PIERRE DENAËS</h1>
-				<h2>DÉVELOPPEUR WEB JUNIOR</h2>
+				<h1 data-scroll>PIERRE DENAËS</h1>
+				<h2 data-scroll>DÉVELOPPEUR WEB JUNIOR</h2>
 				<p>Bonjour, ayant réalisé plusieurs certifications depuis un an sur FreeCodeCamp et OpenClassRoom
 				je suis depuis début septembre 2019 en formation "Web Développeur" avec UTOPLAB (La Ciotat) et l'école Simplon. Je recherche
 				aujourd'hui un premier stage en entreprise.</p>
-				<div class=" d-flex d-inline-flex mb-1">
+				<div data-scroll class=" d-flex d-inline-flex mb-1">
 					<div class="blockIcon">
 					<a class="btn btn-light btn-outline-pinky btnCv" href="documents/Web-Dev-Junior.pdf" target="_blank" role="button">Télécharger CV</a>
 					</div>

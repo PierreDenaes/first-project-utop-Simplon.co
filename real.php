@@ -13,14 +13,14 @@
         </div>
         <div class="carousel-item">
           <div class="carousel-caption d-none d-md-block">
-              <h5>Travel Agency</h5>
+              <h5><a href="https://dnadadenaes.com/site_web_travel" class="linkWork" target="_blank">Travel Agency</a></h5>
               <p>Udemy projet #1</p>
           </div>
           <img class="d-block w-100" src="images/caption_site3.png" alt="Second slide">
         </div>
         <div class="carousel-item">
           <div class="carousel-caption d-none d-md-block">
-              <h5><a href="https://codepen.io/dotpot420/full/eLGZwz/" class="linkWork" target="_blank">Landing Page</a></h5>
+              <h5><a href="https://dnadadenaes.com/oyster" class="linkWork" target="_blank">Landing Page</a></h5>
               <p>FreeCode Camp projet #3</p>
           </div>
           <img class="d-block w-100" src="images/caption_site4.png" alt="Third slide">
@@ -34,14 +34,14 @@
         </div>
         <div class="carousel-item">
           <div class="carousel-caption d-none d-md-block">
-              <h5><a href="https://codepen.io/dotpot420/full/rZKzOE/" class="linkWork" target="_blank">Documentation technique</a></h5>
+              <h5><a href="https://dnadadenaes.com/docphp" class="linkWork" target="_blank">Documentation technique</a></h5>
               <p>FreeCode Camp projet #4</p>
           </div>
           <img class="d-block w-100" src="images/caption_site6.png" alt="Fifth slide">
         </div>
         <div class="carousel-item">
           <div class="carousel-caption d-none d-md-block">
-              <h5><a href="https://codepen.io/dotpot420/full/OJLrpEq" class="linkWork" target="_blank">Site Vitrine</a></h5>
+              <h5><a href="https://dnadadenaes.com/immo" class="linkWork" target="_blank">Site Vitrine</a></h5>
               <p>Simplon.co/UTOPLAB projet #1</p>
           </div>
           <img class="d-block w-100" src="images/caption_site7.png" alt="Sixth slide">

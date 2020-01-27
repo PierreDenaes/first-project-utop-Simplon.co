@@ -23,5 +23,9 @@
 				glare: false
 				});
 		</script>
+        <script src="node_modules/locomotive-scroll/dist/locomotive-scroll.js"></script>
+        <script type="text/javascript">import LocomotiveScroll from 'locomotive-scroll';
+        const scroll = new LocomotiveScroll();
+        </script>
 </body>
 </html>

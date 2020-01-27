@@ -12,6 +12,6 @@ echo (!empty($titre))?'<title>'.$titre.'</title>':'<title> Cv Pierre D. </title>
 	<meta charset="UTF-8">
 	<link rel="stylesheet" type="text/css" href="./css/default.css">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
-	
+	<link rel="stylesheet" href="./node_modules/locomotive-scroll/dist/locomotive-scroll.css">
 </head>
 
